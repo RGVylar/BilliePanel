@@ -1,0 +1,22 @@
+{
+  "name": "billiepanel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RGVylar/BilliePanel.git"
+  },
+  "author": "RGVylar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RGVylar/BilliePanel/issues"
+  },
+  "homepage": "https://github.com/RGVylar/BilliePanel#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
